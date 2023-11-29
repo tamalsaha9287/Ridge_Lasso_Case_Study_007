@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Advanced Regression Analysis Problem on Housing Price Data in Australia
 
 
 ## Table of Contents
